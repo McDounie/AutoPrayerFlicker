@@ -1,3 +1,9 @@
+Demonstration of the plugin:
+https://www.youtube.com/watch?v=E9d2dU5Qhrg&t=65s
+https://www.youtube.com/watch?v=D559oVH5QVY
+
+// ------------------------------------------------------------
+
 Steps to installing the prayer flicker:
 
 1. Build RuneLite in an IDE. You can follow a guide on this here:
@@ -8,9 +14,11 @@ or here https://www.youtube.com/watch?v=4tIQ-tYVYeM&ab_channel=Nom
 
 3. Run RuneLite from your IDE.
 
----
+// ------------------------------------------------------------
 
 To use the auto prayer flicker, just find the auto prayer flicker plugin in the RuneLite app and set a hotkey. 
 Press the hotkey to switch the prayer flicker on/off.
 
 Enjoy!
+
+// ------------------------------------------------------------
