@@ -2,6 +2,7 @@ Steps to installing the prayer flicker:
 
 1. Build RuneLite in an IDE. You can follow a guide on this here:
 https://github.com/runelite/runelite/wiki/Building-with-IntelliJ-IDEA
+or here https://www.youtube.com/watch?v=4tIQ-tYVYeM&ab_channel=Nom
 
 2. Copy paste the prayerflicker folder into runelite-client\src\main\java\net\runelite\client\plugins
 
