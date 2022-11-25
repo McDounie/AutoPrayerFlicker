@@ -3,7 +3,7 @@ Steps to using the prayer flicker:
 1. Build RuneLite in an IDE. You can follow a guide on this here:
 https://github.com/runelite/runelite/wiki/Building-with-IntelliJ-IDEA
 
-2. Copy paste the prayerflicker into runelite-client\src\main\java\net\runelite\client\plugins
+2. Copy paste the prayerflicker folder into runelite-client\src\main\java\net\runelite\client\plugins
 
 3. Run RuneLite
 
