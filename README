@@ -14,7 +14,7 @@ Steps to installing the prayer flicker:
 https://github.com/runelite/runelite/wiki/Building-with-IntelliJ-IDEA
 or here https://www.youtube.com/watch?v=4tIQ-tYVYeM&ab_channel=Nom
 
-2. Copy paste the prayerflicker folder into runelite-client\src\main\java\net\runelite\client\plugins
+2. Copy paste the prayerflicker folder into runelite-client\src\main\java\net\runelite\client\plugins and build your project.
 
 3. Run RuneLite from your IDE.
 
@@ -24,5 +24,9 @@ To use the auto prayer flicker, just find the auto prayer flicker plugin in the 
 Press the hotkey to switch the prayer flicker on/off.
 
 Enjoy!
+
+// ------------------------------------------------------------
+
+If you have any questions, you can email me at autoprayerflicker@gmail.com
 
 // ------------------------------------------------------------
